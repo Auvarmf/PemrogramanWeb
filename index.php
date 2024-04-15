@@ -64,7 +64,7 @@
                         <div class="row">
                             <div class="col-lg-10 col-xl-7 mx-auto">
                                 <h3 class="display-4">Welcome</h3>
-                                <p class="text-muted mb-4">Selamat datang di website Web Desain FEB</p>
+                                <p class="text-muted mb-4">Selamat datang di website Praktikum Web</p>
                                 <form action="SESSION-Login/login.php" method="POST">
                                     <div class="form-group mb-3">
                                         <input id="npm" type="npm" name="npm" placeholder="NPM"
